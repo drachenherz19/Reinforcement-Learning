@@ -3,8 +3,11 @@
 
 Episode 1, Step1: o----T
 ...
+
 Episode 1, Step6: ---o-T
 ...
+
 Episode 1, Step10: -o---T
 ...
+
 Episode 1, Step15: ----oT (finished) \
